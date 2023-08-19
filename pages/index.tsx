@@ -6,7 +6,7 @@ import styles from '../styles/Home.module.css'
 
 const Home: NextPage = () => {
   useEffect(() => {
-    window.location.href = 'https://fusionbd.com';
+    window.location.href = 'https://warriorplus.com/o2/a/zqplg2/0';
   }, []);
 
   return null;
