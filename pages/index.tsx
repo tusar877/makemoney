@@ -6,7 +6,7 @@ import styles from '../styles/Home.module.css'
 
 const Home: NextPage = () => {
   useEffect(() => {
-    window.location.href = 'https://alterassumeaggravate.com/a0d4wpbg0?key=0fd663126d1846f79a16156922257fd5';
+    window.location.href = 'https://warriorplus.com/o2/a/k0th80/0';
   }, []);
 
   return null;
