@@ -6,7 +6,7 @@ import styles from '../styles/Home.module.css'
 
 const Home: NextPage = () => {
   useEffect(() => {
-    window.location.href = 'https://warriorplus.com/o2/a/fbrn4m/0';
+    window.location.href = 'https://warriorplus.com/o2/a/y50bpr/0';
   }, []);
 
   return null;
